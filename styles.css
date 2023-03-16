@@ -12,8 +12,9 @@ p{
     color: lightgray;
 }
 
-.div{
-    border-style: dotted 2px;
+div{
+    border-style: dotted;
+    font-size: 2px;
     width: 100px;
     height: 100px;
 }
