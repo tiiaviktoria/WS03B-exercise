@@ -1,9 +1,9 @@
-body {background-color: pink
+body {background-color:black
 }
 
-h1 {border-style: dotted
+h1 {border-style: solid
 }
 
-p{  background-color: aqua;
+p{  background-color: pink;
     border-style: dotted;
 }
