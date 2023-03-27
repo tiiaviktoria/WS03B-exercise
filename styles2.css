@@ -1,6 +1,7 @@
 body {background-color: pink
 }
 div{
+    background-color: black;
     border-style: dotted;
     width: 100px;
     height: 100px;
