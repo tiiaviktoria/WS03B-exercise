@@ -1,9 +1,9 @@
 body {background-color: pink
 }
-.solid{
-    border-style: dotted;
-    width: 20px;
-    height: 20px;
-    font-size: 20px
 
+h1 {border-style: dotted
+}
+
+p{  background-color: aqua;
+    border-style: dotted;
 }
