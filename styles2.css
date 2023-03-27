@@ -1,9 +1,9 @@
 body {background-color: pink
 }
 div{
-    background-color: black;
+    background-color:aqua
     border-style: dotted;
-    width: 100px;
-    height: 100px;
-    font-size: 2px
+    width: 200px;
+    height: 200px;
+    font-size: 100px
 }
