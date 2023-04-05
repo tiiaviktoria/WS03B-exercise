@@ -58,10 +58,11 @@ body {
 
 .footer {
     background-color: black;
-    padding: 10px;
-    text-align: center;
+    padding: 20px;
+
+}
+
+.footer p{
     color: white;
-    overflow: hidden;
-    display: inline-block;
 
 }
