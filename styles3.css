@@ -1,34 +1,60 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing:border-box;
+}
+
 .header {
     background-color: black;
     color: white;
     text-align: center;
+    padding: 20px;
+
 }
 
-.menu {
-    display: inline;
+.menu{
+    overflow: hidden;
     background-color: darkgray;
-    color: white;
+}
+
+.menu a {
     float: left;
+    display: block;
+    color: white;
     text-align: center;
-    list-style-type: none;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 .content1 {
     background-color: grey;
-    color: black;
-    list-style-type: none;
-    display: block
+    float: left;
+    width: 25%;
+    padding: 10px;  
+}
 
+.content1 a{
+    color: black;
+    display: block;
 }
 
 .content2 {
     background-color: white;
-    color: black;
     width: auto;
+    padding: 20px;
+}
+
+.content2 p{
+    color: black;
+    display: block;
 }
 
 .footer {
     background-color: black;
+    padding: 10px;
+    text-align: center;
     color: white;
 
 }
