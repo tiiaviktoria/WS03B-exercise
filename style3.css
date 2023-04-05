@@ -1,15 +1,15 @@
 li a {
-    display: block;
+    display: inline;
     float: left;
     list-style-type: none;
 }
 div.b {
     width: 150px;
     border: 1px solid black;
-    float: right;  
+    display: inline; 
   }
 li {
-    display: inline;
+    display: block;
     list-style-type: none;
     float: inline-start;
 }
