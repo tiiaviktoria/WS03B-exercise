@@ -35,6 +35,7 @@ body {
     overflow: hidden;
     display: block;
     list-style-type: none;
+    bottom: 0;
     
 }
 
