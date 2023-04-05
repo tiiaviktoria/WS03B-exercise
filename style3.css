@@ -1,15 +1,17 @@
-li a {
-    display: inline;
+.menu li{
+    display: block;
     float: left;
     list-style-type: none;
 }
+
 div.b {
     width: 150px;
     border: 1px solid black;
-    display: inline; 
+    float:right
   }
-li {
-    display: block;
+  
+.top li {
+    display: inline;
     list-style-type: none;
-    float: inline-start;
+    float: inline-start
 }
