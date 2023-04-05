@@ -1,0 +1,34 @@
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.menu {
+    display: inline;
+    background-color: darkgray;
+    color: white;
+    float: left;
+    text-align: center;
+    list-style-type: none;
+}
+
+.content1 {
+    background-color: grey;
+    color: black;
+    list-style-type: none;
+    display: block
+
+}
+
+.content2 {
+    background-color: white;
+    color: black;
+    width: auto;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+
+}
