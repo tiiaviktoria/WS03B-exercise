@@ -30,7 +30,7 @@ body {
 .content1 {
     background-color: lightgray;
     float: left;
-    width: 30%;
+    width: 20%;
     padding: 20px;
     overflow: hidden;
     display: block;
@@ -46,8 +46,8 @@ body {
 
 .content2 {
     background-color: white;
-    padding: 50px;
-    width: 70%;
+    padding: 80px;
+    width: 80%;
     overflow: hidden;
 }
 
