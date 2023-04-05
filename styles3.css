@@ -46,8 +46,7 @@ body {
 
 .content2 {
     background-color: white;
-    width: auto;
-    padding: 20px;
+    padding: 40px;
     width: 70%;
     overflow: hidden;
 }
@@ -59,6 +58,7 @@ body {
 .footer {
     background-color: black;
     padding: 20px;
+    text-align: center;
 
 }
 
