@@ -33,7 +33,7 @@ body {
     width: 30%;
     padding: 20px;
     overflow: hidden;
-    display: inline;
+    display: block;
 }
 
 .content1 a{
