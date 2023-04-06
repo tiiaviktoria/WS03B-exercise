@@ -12,11 +12,17 @@ p{
     color: lightgray;
 }
 
-div{
+.laatikko{
     border-style: dotted;
     width: 100px;
     height: 100px;
     font-size: 2px
+}
+
+.menu{
+    color: white;
+    display: inline;
+
 }
 
 ol li {
