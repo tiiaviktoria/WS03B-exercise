@@ -37,7 +37,7 @@ body {
     padding: 150px;
     display: inline;
     float: left;
-    list-style-type: none;
+    list-style: none;
 }
 
 .content1 a {
@@ -45,7 +45,7 @@ body {
     text-decoration: none;
     margin: 0;
     padding: 0;
-    list-style-type: none;
+    list-style: none;
 
 }
 
